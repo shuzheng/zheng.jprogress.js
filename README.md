@@ -2,7 +2,7 @@
 a nanoscopic progress bar like youtube
 
 ## Demo
-[http://shuzheng.github.io/zheng.jprogress.js/](http://shuzheng.github.io/zheng.jprogress.js/)
+[http://www.zhangshuzheng.cn/zheng.jprogress.js/](http://www.zhangshuzheng.cn/zheng.jprogress.js/)
 
 ## License
 MIT
